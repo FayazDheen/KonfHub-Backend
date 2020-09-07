@@ -12,7 +12,7 @@ data = result.json()
 
 # print (data)
 
-# merged = data['paid'] + data['free']
+merged = data['paid'] + data['free']
 # print (merged)
 # for pad in data['free']:
 #     for each in pad:
